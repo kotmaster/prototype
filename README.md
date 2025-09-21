@@ -4,9 +4,9 @@
 >
 > **Team Members:**
 >
-> -   **Viabhav Panda** - Frontend Developer & UI/UX Designer
 > -   **Harshit Shrivastav** - Backend Developer & AI Integration
 > -   **Keshav Kumar** - Full-Stack Developer & System Architecture
+> -   **Viabhav Panda** - Frontend Developer & UI/UX Designer
 
 ---
 
